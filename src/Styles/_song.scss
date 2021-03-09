@@ -25,6 +25,12 @@
     }
 }
 
+@media screen and (max-width: 768px) {
+    .song-container {
+        min-height: 50vh;
+    }
+}
+
 
 
 
