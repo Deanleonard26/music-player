@@ -5,17 +5,16 @@ nav {
     align-items: center;
 
     button {
+
         background: transparent;
         border:none;
-        border: 2px solid rgb(65,65,65);
-        padding:0.5rem;
         transition: all 0.3s ease;
         outline: none;
         border-radius: 3px;
 
         &:hover {
-            background: rgb(65,65,65);
-            color: white;
+          
+            transform: rotate(180deg); 
         }
     }
 }
