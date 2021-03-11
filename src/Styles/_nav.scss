@@ -12,6 +12,11 @@ nav {
         outline: none;
         border-radius: 3px;
 
+        &:active {
+          
+            transform: rotate(180deg); 
+        }
+
         &:hover {
           
             transform: rotate(180deg); 
