@@ -16,6 +16,7 @@
     }
     h3 {
         font-size: 1rem;
+        margin-bottom: 30px;
     }
 }
 
@@ -45,6 +46,9 @@
     .song-container {
         img {
             width: 60%;
+        }
+        h3 {
+            margin: 0;
         }
     }
 }
